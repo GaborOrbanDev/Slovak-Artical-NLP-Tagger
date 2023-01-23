@@ -1,0 +1,1 @@
+# Szlov-k-nyelv-NLP-cikk-tagger
